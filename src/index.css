@@ -1,0 +1,10 @@
+
+.custom-navbar {
+  max-width: 70%; 
+  margin: 0 auto; 
+}
+
+.custom-nav-link {
+  font-size: 14px; 
+  font-weight: 500;
+}
